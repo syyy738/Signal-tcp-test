@@ -1,0 +1,17 @@
+# Build
+build/
+
+# Qt
+*.pro.user
+*.user
+
+# Compiled
+*.o
+*.obj
+*.exe
+*.dll
+
+# IDE
+.vscode/
+.qtc_clangd/
+.clangd/
